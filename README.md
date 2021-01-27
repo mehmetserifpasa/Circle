@@ -13,3 +13,5 @@ obje.show()
 4. Parametre: Dairenin Yarı Çapı
 5. Parametre: Dairenin rengi / RGB DEĞER OLARAK
 6. Parametre: Dairenin kalınlığı (bu özellik eklenecektir)
+
+<img src="https://user-images.githubusercontent.com/25556230/105990435-81525080-60b3-11eb-9cb6-1b391b468a5e.png">
