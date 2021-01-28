@@ -6,7 +6,7 @@ Mid-Point Circle Drawing Algorithm
 from Circle import CircleDraw
 
 obje = CircleDraw()
-obje.Circle('img/example.jpg', 500,500, 50, (255,12,1), 1)
+obje.Circle('img/example.jpg', 500, 500, 50, (255,12,1), 1)
 obje.show()
 ```
 1. Parametre: Resmin yolu
